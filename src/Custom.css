@@ -1,0 +1,83 @@
+.notes-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    margin: 50px;
+    height: 20rem;
+    overflow: scroll;
+
+}
+
+.custom-list {
+    list-style: none;
+    padding: 0;
+}
+
+.list-text {
+    text-align: left;
+    font-size: 25px;
+}
+
+.list-li {
+    text-align: left;
+    font-size: 20px;
+}
+
+.border {
+    border-style: solid;
+    padding: 10px;
+
+}
+
+.book-details {
+    text-align: left;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.books-container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-body{
+    /* min-height: 20%;
+    max-height: 20%;
+    background-color: antiquewhite; */
+}
+
+.book-review-container{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.margin-bottom{
+    margin-bottom: 5%;
+}
+.navbar-brand{
+    padding-left: 20px;
+}
+.sticky-top{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.notifications-container{
+    height: 20rem;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    margin: 50px;
+    text-align: left;
+    
+}
+::-webkit-scrollbar {
+    display: none;
+  }

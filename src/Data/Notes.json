@@ -1,0 +1,19 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "title": "Upcoming Events",
+            "content": "Don't miss our exciting author talk next week! Join us to hear renowned author John Smith discuss his latest book."
+        },
+        {
+            "id": 2,
+            "title": "Recommended Summer Reads",
+            "content": "Looking for a great book to enjoy during your summer vacation? Check out our curated list of recommended summer reads."
+        },
+        {
+            "id": 3,
+            "title": "Library Closure Notice",
+            "content": "Please note that the library will be closed for renovations from July 10th to July 15th. We apologize for any inconvenience caused."
+        }
+    ]
+}
